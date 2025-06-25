@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for BUILD mode (Code Implementation)"
-applyTo: "implementation-mode-map.mdc"
+applyTo: "implementation-mode-map.instructions.md"
 ---
 
 # BUILD MODE: CODE EXECUTION PROCESS MAP

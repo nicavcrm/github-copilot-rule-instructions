@@ -1,6 +1,6 @@
 ---
 description: "complexity decision tree"
-applyTo: "complexity-decision-tree.mdc"
+applyTo: "complexity-decision-tree.instructions.md"
 ---
 
 # TASK COMPLEXITY DETERMINATION

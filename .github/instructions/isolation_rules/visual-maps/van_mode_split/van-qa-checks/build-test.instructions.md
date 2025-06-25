@@ -1,6 +1,6 @@
 ---
 description: "Process map for VAN QA minimal build test"
-applyTo: "van-qa-checks/build-test.mdc"
+applyTo: "van-qa-checks/build-test.instructions.md"
 ---
 
 # VAN QA: MINIMAL BUILD TEST

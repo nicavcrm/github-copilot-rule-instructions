@@ -1,6 +1,6 @@
 ---
 description: "planning comprehensive"
-applyTo: "planning-comprehensive.mdc"
+applyTo: "planning-comprehensive.instructions.md"
 ---
 
 # LEVEL 3 COMPREHENSIVE PLANNING

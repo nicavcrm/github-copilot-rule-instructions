@@ -1,6 +1,6 @@
 ---
 description: "Process map for VAN QA dependency verification"
-applyTo: "van-qa-checks/dependency-check.mdc"
+applyTo: "van-qa-checks/dependency-check.instructions.md"
 ---
 
 # VAN QA: DEPENDENCY VERIFICATION

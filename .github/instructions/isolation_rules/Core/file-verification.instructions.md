@@ -1,6 +1,6 @@
 ---
 description: "Optimized file verification"
-applyTo: "file-verification.mdc"
+applyTo: "file-verification.instructions.md"
 ---
 
 # OPTIMIZED FILE VERIFICATION SYSTEM

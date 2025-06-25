@@ -1,6 +1,6 @@
 ---
 description: "QA Mode"
-applyTo: "qa-mode-map.mdc"
+applyTo: "qa-mode-map.instructions.md"
 ---
 
 > **TL;DR:** This enhanced QA mode provides comprehensive validation at any stage of development. It automatically detects the current phase, validates Memory Bank consistency, verifies task tracking, and performs phase-specific technical validation to ensure project quality throughout the development lifecycle.

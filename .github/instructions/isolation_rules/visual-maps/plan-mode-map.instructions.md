@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for PLAN mode (Code Implementation)"
-applyTo: "plan-mode-map.mdc"
+applyTo: "plan-mode-map.instructions.md"
 ---
 
 # PLAN MODE: TASK PLANNING PROCESS MAP

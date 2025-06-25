@@ -1,6 +1,6 @@
 ---
 description: "Utility for remembering how to call VAN QA rules"
-applyTo: "van-qa-utils/rule-calling-help.mdc"
+applyTo: "van-qa-utils/rule-calling-help.instructions.md"
 ---
 
 # VAN QA: HOW TO CALL RULES

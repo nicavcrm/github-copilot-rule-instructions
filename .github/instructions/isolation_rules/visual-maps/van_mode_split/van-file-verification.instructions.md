@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for VAN mode file verification"
-applyTo: "van-file-verification.mdc"
+applyTo: "van-file-verification.instructions.md"
 ---
 
 # OPTIMIZED FILE VERIFICATION SYSTEM

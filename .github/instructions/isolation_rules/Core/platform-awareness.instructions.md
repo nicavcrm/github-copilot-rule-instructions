@@ -1,6 +1,6 @@
 ---
 description: "Platform detection and command adaptation for isolation-focused Memory Bank"
-applyTo: "platform-awareness.mdc"
+applyTo: "platform-awareness.instructions.md"
 ---
 
 # PLATFORM AWARENESS SYSTEM

@@ -1,6 +1,6 @@
 ---
 description: "Utility for VAN QA mode transitions"
-applyTo: "van-qa-utils/mode-transitions.mdc"
+applyTo: "van-qa-utils/mode-transitions.instructions.md"
 ---
 
 # VAN QA: MODE TRANSITIONS

@@ -1,6 +1,6 @@
 ---
 description: "task tracking intermediate"
-applyTo: "task-tracking-intermediate.mdc"
+applyTo: "task-tracking-intermediate.instructions.md"
 ---
 
 # LEVEL 3 INTERMEDIATE TASK TRACKING

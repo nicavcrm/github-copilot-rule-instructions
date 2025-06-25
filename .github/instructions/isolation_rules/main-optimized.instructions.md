@@ -1,6 +1,6 @@
 ---
 description: "Optimized main rule for improved token efficiency"
-applyTo: "main-optimized.mdc"
+applyTo: "main-optimized.instructions.md"
 ---
 
 # 🔍 OPTIMIZED MEMORY BANK SYSTEM

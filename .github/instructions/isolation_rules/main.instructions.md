@@ -1,6 +1,6 @@
 ---
 description: "main rule"
-applyTo: "main.mdc"
+applyTo: "main.instructions.md"
 ---
 
 # 🔍 ISOLATION-FOCUSED MEMORY BANK SYSTEM

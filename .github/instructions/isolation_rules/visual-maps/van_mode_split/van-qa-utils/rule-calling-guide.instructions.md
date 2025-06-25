@@ -1,6 +1,6 @@
 ---
 description: "Comprehensive guide for calling VAN QA rules"
-applyTo: "van-qa-utils/rule-calling-guide.mdc"
+applyTo: "van-qa-utils/rule-calling-guide.instructions.md"
 ---
 
 # VAN QA: COMPREHENSIVE RULE CALLING GUIDE

@@ -1,6 +1,6 @@
 ---
 description: "Process map for VAN QA environment validation"
-applyTo: "van-qa-checks/environment-check.mdc"
+applyTo: "van-qa-checks/environment-check.instructions.md"
 ---
 
 # VAN QA: ENVIRONMENT VALIDATION

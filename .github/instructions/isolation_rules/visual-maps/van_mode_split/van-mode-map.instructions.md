@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for VAN mode (Index/Entry Point)"
-applyTo: "van-mode-map.mdc"
+applyTo: "van-mode-map.instructions.md"
 ---
 
 # VAN MODE: INITIALIZATION PROCESS MAP

@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for VAN mode platform detection"
-applyTo: "van-platform-detection.mdc"
+applyTo: "van-platform-detection.instructions.md"
 ---
 
 # VAN MODE: PLATFORM DETECTION

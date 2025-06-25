@@ -1,6 +1,6 @@
 ---
 description: "Utility for VAN QA validation reports"
-applyTo: "van-qa-utils/reports.mdc"
+applyTo: "van-qa-utils/reports.instructions.md"
 ---
 
 # VAN QA: VALIDATION REPORTS

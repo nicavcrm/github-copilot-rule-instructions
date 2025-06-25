@@ -1,6 +1,6 @@
 ---
 description: "Process map for VAN QA configuration validation"
-applyTo: "van-qa-checks/config-check.mdc"
+applyTo: "van-qa-checks/config-check.instructions.md"
 ---
 
 # VAN QA: CONFIGURATION VALIDATION

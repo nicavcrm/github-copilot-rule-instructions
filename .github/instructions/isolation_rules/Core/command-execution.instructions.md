@@ -1,6 +1,6 @@
 ---
 description: "Command execution guidelines for isolation-focused Memory Bank"
-applyTo: "command-execution.mdc"
+applyTo: "command-execution.instructions.md"
 ---
 
 # COMMAND EXECUTION SYSTEM

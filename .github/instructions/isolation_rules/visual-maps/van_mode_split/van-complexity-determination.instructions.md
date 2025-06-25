@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for VAN mode complexity determination"
-applyTo: "van-complexity-determination.mdc"
+applyTo: "van-complexity-determination.instructions.md"
 ---
 
 # VAN MODE: COMPLEXITY DETERMINATION

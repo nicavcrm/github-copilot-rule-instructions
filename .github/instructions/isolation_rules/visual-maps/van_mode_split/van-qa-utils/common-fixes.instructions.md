@@ -1,6 +1,6 @@
 ---
 description: "Utility for VAN QA common validation fixes"
-applyTo: "van-qa-utils/common-fixes.mdc"
+applyTo: "van-qa-utils/common-fixes.instructions.md"
 ---
 
 # VAN QA: COMMON VALIDATION FIXES

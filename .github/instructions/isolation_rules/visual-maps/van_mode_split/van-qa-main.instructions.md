@@ -1,6 +1,6 @@
 ---
 description: "Visual process map for VAN QA mode (Technical Validation Entry Point)"
-applyTo: "van-qa-main.mdc"
+applyTo: "van-qa-main.instructions.md"
 ---
 
 # VAN MODE: QA TECHNICAL VALIDATION (Main Entry)
