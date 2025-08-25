@@ -9,6 +9,7 @@ Type `/fs` followed by your content in Copilot Chat. Optionally add "limit: <N>"
 ## Command Contract
 - Input: Content to be summarized
 - Output: Executive summary ≤ 120 words (unless user specifies different limit)
+- Note: Use the copy button in Copilot Chat or select and copy (Ctrl/Cmd+C) to copy the output to clipboard
 
 ## Rules
 - Default limit: 120 words

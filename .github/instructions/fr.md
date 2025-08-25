@@ -9,6 +9,7 @@ Type `/fr` followed by your transcript or rough requirements in Copilot Chat.
 ## Command Contract
 - Input: Noisy transcript or rough requirements text
 - Output: Structured requirements document in exact order (omit empty sections)
+- Note: Use the copy button in Copilot Chat or select and copy (Ctrl/Cmd+C) to copy the output to clipboard
 
 ## Required Output Sections (exact order)
 1. **Title**

@@ -9,6 +9,7 @@ Type `/fc` followed by your raw transcription in Copilot Chat.
 ## Command Contract
 - Input: Raw transcription text
 - Output: Cleaned transcript with minimal changes
+- Note: Use the copy button in Copilot Chat or select and copy (Ctrl/Cmd+C) to copy the output to clipboard
 
 ## Rules
 - Remove filler words: uh, um, like, you know (only obvious ones)

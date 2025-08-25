@@ -9,6 +9,7 @@ Type `/fg` followed by your raw transcription text in Copilot Chat.
 ## Command Contract
 - Input: Raw transcription text with grammatical errors, spelling mistakes, and filler words
 - Output: ONLY the corrected text. No preface, no suffix.
+- Note: Use the copy button in Copilot Chat or select and copy (Ctrl/Cmd+C) to copy the output to clipboard
 
 ## Rules
 - Keep domain-specific terms unchanged unless clearly misspelled

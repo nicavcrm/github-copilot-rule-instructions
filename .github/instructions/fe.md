@@ -9,6 +9,7 @@ Type `/fe` followed by your terse list or shorthand notes in Copilot Chat.
 ## Command Contract
 - Input: Terse list, shorthand notes, or brief specifications
 - Output: Expanded content with fuller descriptions
+- Note: Use the copy button in Copilot Chat or select and copy (Ctrl/Cmd+C) to copy the output to clipboard
 
 ## Rules
 - Preserve original ordering
