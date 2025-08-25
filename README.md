@@ -81,6 +81,14 @@ As a developer I want automated transcript cleanup so that I can quickly convert
 **Input:** `/fs [long technical specification]`  
 **Output:** `System implements real-time payment processing with fraud detection for e-commerce platform. Scope includes user authentication, transaction management, and third-party gateway integration. Key risks: PCI compliance requirements and high-availability demands. Technical complexity centers on distributed transaction handling and real-time fraud analysis algorithms.`
 
+## 🔧 Typical Usage Scenario
+
+1. **Capture** a quick idea using a voice-to-text tool (e.g., [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)) that produces a rough transcription with filler words and punctuation issues.
+2. **Paste** the raw transcription into Copilot Chat prefixed with `/fg`.
+3. **Receive** only the cleaned, corrected text (no extra commentary).
+4. **Copy** the result using Copilot's copy button and paste into your code comments, docs, commit message, or ticket.
+5. **Repeat** as needed while iterating on spoken notes.
+
 ## 🔧 How It Works
 
 1. **Install** the command files in your repository's `.github/instructions/` directory
